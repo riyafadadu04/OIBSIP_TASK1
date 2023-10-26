@@ -1,0 +1,397 @@
+/* --------- general ----------- */
+img {
+    border-radius: 100%;
+    opacity: 0;
+}
+
+.bgcolor {
+    background: #ff758f;
+    padding: 15px 25px;
+    border: none;
+    color: white;
+    margin: 25px opx;
+}
+
+.textcolor {
+    color: #ff758f;
+}
+
+.head {
+    font-family: 'Noto Serif', serif;
+    margin: 45px 0px;
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+
+/* ----------- navebar ----------- */
+#nav{
+    background: #ff758f;
+    padding: 15px 50px;
+    color: #fff;
+    font-size: 2rem;
+}
+.navbar-item{
+    display: inline;
+}
+#nav a{
+    color: #fff;    
+    text-decoration: none;
+}
+.bakery-head{
+    font-family: 'Nosifer', sans-serif;
+}
+.navbar i{
+    margin-right: 10px;
+    font-size: 3rem;
+}
+ul{
+    font-size: 1.1rem;
+}
+
+/*------------ introduction ------------*/
+#intro {
+    padding: 50px 150px;
+}
+
+.intro-info {
+    padding: 80px;
+    text-align: left;
+}
+
+.row-intro {
+    padding: 50px;
+}
+
+/* ----------- about ------------ */
+#about {
+    background: #fff0f3;
+    padding: 100px 150px;
+}
+
+/*------ about & instructor & program ------*/
+.info {
+    text-align: left;
+    padding: 50px;
+    margin: 50px;
+}
+
+.info h5 {
+    font-weight: lighter;
+    font-size: 1.5rem;
+    font-family: 'Lato', sans-serif;    
+    color: #757474;
+}
+
+.detail {
+    padding-bottom: 20px;
+}
+
+/* ----------- skill --------- */
+#skill {
+    text-align: left;
+    padding: 50px 150px;
+    background: #c88aeb;
+}
+
+#skill h1 {
+    color: white;
+}
+
+#skill .i {
+    background: #ff8da2;
+    color: #fff;
+    font-size: 2rem;
+    padding: 20px;
+    text-align: center;
+    border-radius: 100%;
+    margin: 20px 0px;
+}
+
+.arw {
+    color: #ff8da2;
+    font-size: 4rem;
+}
+
+.skill-detail {
+    padding: 20px 30px 20px 0px;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.row-skill {
+    text-align: left;
+    background-color: #fff;
+    padding: 50px;
+}
+
+/* ----------- image gallery---------- */
+.gallery{
+    padding: 0px 150px;
+}
+.imgG1{
+    margin-left: 0px;
+    margin-top: 250px;
+    width: 150px;
+}
+.imgG2{
+    width: 200px;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+.imgG3{
+    margin-left: 10px;
+    margin-top: 200px;
+    width: 250px;
+    height: 250px;
+}
+.imgG4{
+    width: 200px;
+}
+.imgG5{
+    margin-top: 220px;
+    margin-left: 10px;
+    width: 350px;
+    height: 350px;
+}
+.imgG6{
+    width: 300px;
+    height: 270px;
+    margin-top: -60px;
+    margin-left: 600px;
+}
+.imgG7{
+    width: 250px;
+    height: 250px;
+    margin-top: -200px;
+    margin-left: -750px;
+}
+
+/* ----------- learn ------------ */
+#learn {
+    padding: 50px 150px;
+    text-align: left;
+    background: #c88aeb;
+}
+
+#learn h1 {
+    color: #fff;
+}
+
+.row-learn {
+    text-align: left;
+    background: white;
+    padding: 50px;
+}
+
+.line {
+    background-color: #fa284e;
+    height: 4px;
+}
+
+.learn h5 {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.learn {
+    line-height: 2.5rem;
+    font-size: 1.1rem;
+}
+
+/* -----------about the programs ---------*/
+#program {
+    padding: 100px 150px 20px;
+}
+
+.program-img {
+    padding-top: 50px;
+}
+
+/* --------- about instructor ---------- */
+#instructor {
+    padding: 20px 150px;
+}
+
+.instructor-img {
+    padding-top: 50px;
+}
+
+/* ----------- cost section ------------ */
+#cost {
+    background: #fcbed9;
+    padding: 60px;
+}
+
+.row-cost {
+    background-color: #fff;
+    padding: 70px 40px;
+}
+
+#cost h4 {
+    color: #f986b8;
+    font-weight: lighter;
+}
+
+#cost .cost-head {
+    padding: 0px 20px 20px 0px;
+    font-weight: bold;
+}
+
+#cost li {
+    text-align: left;
+    padding-left: 60px;
+    font-size: 1.1rem;
+}
+
+#cost .cost-head1 {
+    color: gray;
+}
+
+#cost span {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+#cost button {
+    font-weight: bold;
+    font-size: 1.3rem;
+    border: none;
+    padding: 20px 50px;
+    margin: 30px;
+    border-radius: 10px;
+    background-color: #dddbdb;
+}
+
+/* ----------- quote ------------ */
+#quote {
+    background: #c88aeb;
+    padding: 100px 150px;
+}
+
+.quote {
+    font-family: 'Noto Serif', serif;
+    background-color: #fff;
+    padding: 100px;
+    font-weight: bolder;
+    font-size: 3%;
+    text-align: center;
+}
+
+.quote i {
+    font-size: 5rem;
+    color: #ff758f;
+    margin-bottom: 20px;
+}
+
+.quote-name {
+    text-align: center;
+    margin: 20px;
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.quote-img{
+    width: 250px;
+    margin-top: -100px;
+    margin-left: 450px;
+}
+
+/* ----------- apply ------------ */
+#apply {
+    padding: 100px 200px;
+    background: #fff0f3;
+}
+
+.form-label {
+    padding-top: 10px;
+}
+
+.form-control {
+    border-radius: none;
+}
+
+.submit {
+    margin-top: 20px;
+    padding: 10px 40px;
+}
+
+/* --------- footer ------------- */
+footer {
+    background-color: #252525;
+    color: #dddbdb;
+    padding: 100px 150px;
+    text-align: center;
+    justify-content: center;
+}
+
+footer i {
+    margin: 20px;
+    font-size: 2rem;
+}
+
+footer a {
+    color: #fff;
+    padding: 20px;
+}
+
+footer h5 {
+    margin: 30px
+}
+
+/* ---------animation------------- */
+
+.img1.active{
+    position: relative;
+    animation-name: moving1;
+    animation-duration: 2s;
+    opacity: 1;
+}
+
+@keyframes moving1 {
+    0% {
+        left: 800px;
+        top: 0px;
+        transform: rotate(0deg);
+    }
+
+    100% {
+        left: 0px;
+        top: 0px;
+        transform: rotate(360deg);
+    }
+}
+
+.img2.active {
+    position: relative;
+    animation-name: moving2;
+    animation-duration: 2s;
+    opacity: 1;
+}
+
+@keyframes moving2 {
+    0% {
+        right: 800px;
+        top: 0px;
+        transform: rotate(0deg);
+    }
+
+    100% {
+        right: 0px;
+        top: 0px;
+        transform: rotate(360deg);
+    }
+}
+
+button:hover{
+    background-color: #252525;
+}
+
+#nav a:hover{
+    text-decoration: underline;
+    color: #252525;
+}
+
+footer i:hover, a:hover, .bakery-head:hover{
+    color: #fcbed9;
+}
